@@ -308,7 +308,7 @@ class BrowserAgent:
 
         return messages
 
-    def _call_ollama(self, messages: list[dict], debug: bool = True) -> str:
+    def _call_ollama(self, messages: list[dict], debug: bool = False) -> str:
         """Call Ollama native API and return response text."""
         if debug:
             console.print("\n[dim]--- DEBUG: Messages being sent ---[/dim]")
