@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Type checking
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Project-specific
+screenshots/
+
+# Reference files (not needed for execution)
+computer_use.ipynb
+agent_function_call.py
+spec.md
+
+# Claude Code
+.claude/
