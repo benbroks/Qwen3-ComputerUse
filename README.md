@@ -228,4 +228,3 @@ The model may need a clearer task description. Try being more specific:
 
 - **Agent loop & Playwright harness**: Adapted from [Gemini Computer Use Preview](https://github.com/google-gemini/computer-use-preview)
 - **Qwen3-VL inference pattern**: From [Qwen3-VL Cookbooks](https://github.com/QwenLM/Qwen3-VL)
-- **Tool definitions**: From Qwen Agent's `agent_function_call.py`
